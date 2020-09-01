@@ -74,6 +74,10 @@
     background-color: #ebebeb;
 }
 
+.sidebarChat.isSelected {
+    background-color: #ebebeb;
+}
+
 .sidebarChat__info {
     margin-left: 15px;
 }
@@ -82,3 +86,9 @@
     font-size: 16px;
     margin-bottom: 8px;
 }
+
+.sidebar__body a {
+    text-decoration: none !important;
+    color: black;
+}
+
